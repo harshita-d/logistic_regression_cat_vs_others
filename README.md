@@ -1,0 +1,2 @@
+# logistic_regression_cat_vs_others
+image recognition using Logistic Regression
